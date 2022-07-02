@@ -34,4 +34,11 @@
 
 
 # Use Case: Deploy Azure Logic Apps to remediate a vulnerability using the recommendation
-- 
+- Trigger the logic app where the logic app sends an email to you regarding an alert.
+- Within Logic App Designer - create a blank logic app
+- Search for "recommendation" - select Security Center Recommendation - it will create a connection.
+- Create a new step so search for an outlook connector where we want to send an email.
+- Enter the email address you want the alert to be sent to.
+- Select Dynamic content - properties and properties display name
+- Save the workflow.
+- Go to Microsoft Defender for Cloud and add the workflow automation.
