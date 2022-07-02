@@ -25,6 +25,13 @@
 3. When there are multiple alerts, Defender for Cloud can create a security incident that is based on the related alerts.
 4. Alerts will get classified - High , Medium , Low , and Informational
 
+# Example - Security Alerts
+- If a new user resets an admin credentials for a virtual machine, a security alert will be generated on Microsoft Defender for Cloud
+
 
 # Microsoft Defender - Workflow Automation
 - We can trigger a workflow automation via logic apps to remediate or implement the recommendation.
+
+
+# Use Case: Deploy Azure Logic Apps to remediate a vulnerability using the recommendation
+- 
