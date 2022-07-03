@@ -68,7 +68,8 @@
 
 
 # Go to Microsoft Defender for Cloud and add the workflow automation.
-
+- Click save.
+- Wait about 15-20 minutes for an email providing a security recommendation.
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/104326475/177019565-d2081a14-168f-4d72-8398-85814716ba68.png" height="75%" width="75%" alt="Azure LAW"/>
