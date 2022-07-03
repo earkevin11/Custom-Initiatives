@@ -40,7 +40,7 @@
 # Create the logic app 
 <p align="center">
   
-<img src="" height="75%" width="75%" alt="Azure LAW"/>
+<img src="https://user-images.githubusercontent.com/104326475/177019544-ca5656dc-dc7e-4838-97b2-17055460ee19.png" height="75%" width="75%" alt="Azure LAW"/>
 
 <p/>
 
@@ -50,7 +50,7 @@
 
 <p align="center">
   
-<img src="" height="75%" width="75%" alt="Azure LAW"/>
+<img src="https://user-images.githubusercontent.com/104326475/177019557-dd576833-dfca-48f1-9639-59d270e476c5.png" height="75%" width="75%" alt="Azure LAW"/>
 
 <p/>
 
@@ -62,16 +62,16 @@
 
 <p align="center">
   
-<img src="" height="75%" width="75%" alt="Azure LAW"/>
+<img src="https://user-images.githubusercontent.com/104326475/177019615-18ff3f36-e34b-4b48-9f79-5f92e30a1929.png" height="75%" width="75%" alt="Azure LAW"/>
 
 <p/>
 
 
-- Go to Microsoft Defender for Cloud and add the workflow automation.
+# Go to Microsoft Defender for Cloud and add the workflow automation.
 
 <p align="center">
   
-<img src="" height="75%" width="75%" alt="Azure LAW"/>
+<img src="https://user-images.githubusercontent.com/104326475/177019565-d2081a14-168f-4d72-8398-85814716ba68.png" height="75%" width="75%" alt="Azure LAW"/>
 
 <p/>
 
